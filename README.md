@@ -68,7 +68,7 @@ Aqui estão alguns projetos que desenvolvi usando **HTML, CSS e JavaScript**:
         <img src="https://github.com/jneres00/jneres00/blob/main/proj%204.png?raw=true" alt="Projeto 4" width="200"/><br/>
         <b>Projeto 4</b><br/>
         Biblioteca virtual<br/>
-        <a href="https://jneres00.github.io/biblioteca-virtual/="_blank">Ver Projeto</a>
+        <a href="https://jneres00.github.io/biblioteca-virtual/=" target_blank">Ver Projeto</a>
       </td>
     </tr>
   </table>
