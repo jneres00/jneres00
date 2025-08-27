@@ -47,28 +47,28 @@ Aqui estão alguns projetos que desenvolvi usando **HTML, CSS e JavaScript**:
   <table>
     <tr>
       <td align="center">
-        <img src="LINK_IMAGEM_PROJETO_1" alt="Projeto 1" width="200"/><br/>
+        <img src="https://github.com/jneres00/jneres00/blob/main/proj%201.png?raw=true" alt="Projeto 1" width="200"/><br/>
         <b>Projeto 1</b><br/>
-        Mini-site interativo<br/>
-        <a href="LINK_PROJETO_1" target="_blank">Ver Projeto</a>
+        APP de tarefas em JavaScript<br/>
+        <a href="https://jneres00.github.io/app-de-tarefas-todolist/" target="_blank">Ver Projeto</a>
       </td>
       <td align="center">
-        <img src="LINK_IMAGEM_PROJETO_2" alt="Projeto 2" width="200"/><br/>
+        <img src="https://github.com/jneres00/jneres00/blob/main/proj%202.png?raw=true" alt="Projeto 2" width="200"/><br/>
         <b>Projeto 2</b><br/>
-        To-do list em JavaScript<br/>
-        <a href="LINK_PROJETO_2" target="_blank">Ver Projeto</a>
+        Guia de cuidados de pets<br/>
+        <a href="https://jneres00.github.io/projeto-cuidar-pets/" target="_blank">Ver Projeto</a>
       </td>
       <td align="center">
-        <img src="LINK_IMAGEM_PROJETO_3" alt="Projeto 3" width="200"/><br/>
+        <img src="https://github.com/jneres00/jneres00/blob/main/proj%203.png?raw=true" alt="Projeto 3" width="200"/><br/>
         <b>Projeto 3</b><br/>
-        Página responsiva de portfólio<br/>
-        <a href="LINK_PROJETO_3" target="_blank">Ver Projeto</a>
+        Fan page de anime<br/>
+        <a href="https://jneres00.github.io/fanpage-anime/" target="_blank">Ver Projeto</a>
       </td>
       <td align="center">
-        <img src="LINK_IMAGEM_PROJETO_4" alt="Projeto 4" width="200"/><br/>
+        <img src="https://github.com/jneres00/jneres00/blob/main/proj%204.png?raw=true" alt="Projeto 4" width="200"/><br/>
         <b>Projeto 4</b><br/>
-        Pequena aplicação com JS<br/>
-        <a href="LINK_PROJETO_4" target="_blank">Ver Projeto</a>
+        Biblioteca virtual<br/>
+        <a href="https://jneres00.github.io/biblioteca-virtual/="_blank">Ver Projeto</a>
       </td>
     </tr>
   </table>
