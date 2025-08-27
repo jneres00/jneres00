@@ -77,12 +77,12 @@ Aqui estão alguns projetos que desenvolvi usando **HTML, CSS e JavaScript**:
 ---
 
 ## Outros Projetos & Portfólio
-Confira meus outros trabalhos [no meu portfólio completo](LINK_DO_SEU_PORTFOLIO) 🌟  
+Confira meus outros trabalhos [no meu portfólio completo](https://jneres00.github.io/meuportfolio/) 🌟  
 
 ---
 
 ## Contato
 <p align="center">
-  🔗 LinkedIn: <a href="LINK_DO_LINKEDIN">Seu LinkedIn</a> | 📧 Email: seuemail@email.com
+  🔗 LinkedIn: <a href="https://www.linkedin.com/in/jessneres/">Seu LinkedIn</a> | 📧 Email: jneres00@gmail.com
 </p>
 
