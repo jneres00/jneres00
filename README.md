@@ -1,9 +1,7 @@
 <p align="center">
-  <img src="LINK_DO_BANNER" alt="Banner do Perfil" width="100%">
+  <img src="https://github.com/jneres00/jneres00/blob/main/Ol%C3%A1,%20eu%20sou%20a%20J%C3%A9ssica%20(1).png?raw=true" alt="Banner do Perfil" width="100%">
 </p>
 
-# Olá, eu sou a Jéssica! 👋
-<p align="center">
   🎨 Designer Gráfico em formação | 💻 Estudante de Front-end | 🌎 Apaixonada por idiomas e criatividade
 </p>
 
