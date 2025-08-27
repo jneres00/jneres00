@@ -83,6 +83,6 @@ Confira meus outros trabalhos [no meu portfólio completo](https://jneres00.gith
 
 ## Contato
 <p align="center">
-  🔗 LinkedIn: <a href="https://www.linkedin.com/in/jessneres/">| 📧 Email: jneres00@gmail.com
+  🔗 LinkedIn: <a href="https://www.linkedin.com/in/jessneres/">LinkedIn| 📧 Email: jneres00@gmail.com
 </p>
 
