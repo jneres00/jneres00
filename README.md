@@ -71,10 +71,6 @@ Aqui estão alguns projetos que desenvolvi usando **HTML, CSS e JavaScript**:
 
 ---
 
-## Outros Projetos & Portfólio
-Confira meus outros trabalhos [no meu portfólio completo](https://jneres00.github.io/meuportfolio/) 🌟  
-
----
 
 ## Contato
 <p align="center">
