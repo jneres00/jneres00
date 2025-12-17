@@ -74,8 +74,7 @@ Aqui estão alguns projetos que desenvolvi usando **HTML, CSS e JavaScript**:
 
 ## Contato
 <p align="center">
-  🔗<a href="https://www.linkedin.com/in/jessica-n-82964a386/">LinkedIn</a>
-
-/ 📧 Email: jneres00@gmail.com
+  🔗<a href="https://www.linkedin.com/in/jessica-n-82964a386/">LinkedIn</a><br>
+📧 Email: jneres00@gmail.com
 </p>
 
