@@ -8,8 +8,8 @@
 ---
 
 ## Sobre mim
-Sou uma aprendiz empenhada em crescer um pouco a cada dia. Atualmente curso **Sistemas para Internet** na GRAN FACULDADE e dedico meu tempo a explorar ferramentas como **Canva, Adobe Illustrator e Figma**.  
-Também estudo **HTML, CSS e JavaScript**, aplicando em projetos pessoais para criar experiências digitais e interativas.  
+Sou uma aprendiz empenhada em crescer um pouco a cada dia. Atualmente curso **Sistemas para Internet** na GRAN FACULDADE. 
+Estudo **HTML, CSS e JavaScript**, aplicando em projetos pessoais para criar experiências digitais e interativas.  
 Estudo idiomas (inglês, francês e espanhol) para ampliar minha criatividade e visão de mundo.  
 
 ---
