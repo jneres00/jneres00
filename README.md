@@ -2,13 +2,13 @@
   <img src="https://github.com/jneres00/jneres00/blob/main/Ol%C3%A1,%20eu%20sou%20a%20J%C3%A9ssica%20(4).png?raw=true" alt="Banner do Perfil" width="100%">
 </p>
 
-  🎨 💻 Estudante de Design Gráfico e Front-end | 🌎 Apaixonada por idiomas e criatividade
+  🎨 💻 Estudante de Sistemas para Internet | 🌎 Apaixonada por idiomas e criatividade
 </p>
 
 ---
 
 ## Sobre mim
-Sou uma aprendiz empenhada em crescer um pouco a cada dia. Atualmente curso **Design Gráfico** na Uninter e dedico meu tempo a explorar ferramentas como **Canva, Adobe Illustrator e Figma**.  
+Sou uma aprendiz empenhada em crescer um pouco a cada dia. Atualmente curso **Sistemas para Internet** na GRAN FACULDADE e dedico meu tempo a explorar ferramentas como **Canva, Adobe Illustrator e Figma**.  
 Também estudo **HTML, CSS e JavaScript**, aplicando em projetos pessoais para criar experiências digitais e interativas.  
 Estudo idiomas (inglês, francês e espanhol) para ampliar minha criatividade e visão de mundo.  
 
