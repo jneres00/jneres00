@@ -17,7 +17,7 @@
 # 👩‍💻 Sobre mim
 
 Sou uma aprendiz empenhada em crescer um pouco a cada dia.  
-Atualmente curso **Sistemas para Internet** na **GRAN Centro Universitário**.
+Atualmente curso **Sistemas para Internet** no **GRAN Centro Universitário**.
 
 Estudo **HTML, CSS e JavaScript**, aplicando em projetos pessoais para criar experiências digitais e interativas.
 
