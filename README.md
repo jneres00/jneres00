@@ -1,8 +1,7 @@
 <p align="center">
   <img src="https://github.com/jneres00/jneres00/blob/main/Ola.png" alt="Banner do Perfil" width="100%">
 </p>
-
-  🎨 💻 Estudante de Sistemas para Internet | 🌎 Apaixonada por idiomas e criatividade
+💻 Estudante de Sistemas para Internet
 </p>
 
 ---
